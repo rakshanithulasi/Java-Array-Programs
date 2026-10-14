@@ -17,5 +17,6 @@ public class PrintArrayElementsInReverseOrder
 		{
 			System.out.print(arr[i] + " ");
 		}
+		sc.close();
 	}
 }
