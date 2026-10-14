@@ -8,6 +8,7 @@ This repository contains Java array programs that I practice to improve my codin
 1. Print All Array Elements
 2. Print Array Elements in Reverse Order
 3. Sum of Array Elements
+4. Average of Array Elements
 
 More programs will be added as I continue practicing.
 
