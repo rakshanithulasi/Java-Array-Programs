@@ -20,7 +20,8 @@ This repository contains Java array programs that I practice to improve my codin
 13. Print Elements at Odd Indices
 14. Find the Second Element in an Array
 15. Check Whether an Array Is Sorted in Ascending Order
-   
+16. Check Whether an Array Is Sorted in Descending Order
+    
 More programs will be added as I continue practicing.
 
 ## Technologies Used
