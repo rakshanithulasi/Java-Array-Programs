@@ -17,6 +17,7 @@ This repository contains Java array programs that I practice to improve my codin
 10. Count Occurrences of an Element in an Array
 11. Copy One Array into Another
 12. Print Elements at Even Indices
+13. Print Elements at Odd Indices
    
 More programs will be added as I continue practicing.
 
