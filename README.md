@@ -15,6 +15,7 @@ This repository contains Java array programs that I practice to improve my codin
 8. Count Positive, Negative, and Zero Elements in an Array
 9. Search for an Element in an Array
 10. Count Occurrences of an Element in an Array
+11. Copy One Array into Another
    
 More programs will be added as I continue practicing.
 
