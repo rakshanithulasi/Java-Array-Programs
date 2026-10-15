@@ -18,6 +18,7 @@ This repository contains Java array programs that I practice to improve my codin
 11. Copy One Array into Another
 12. Print Elements at Even Indices
 13. Print Elements at Odd Indices
+14. Find the Second Element in an Array
    
 More programs will be added as I continue practicing.
 
