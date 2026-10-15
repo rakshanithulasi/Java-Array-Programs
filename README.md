@@ -9,7 +9,10 @@ This repository contains Java array programs that I practice to improve my codin
 2. Print Array Elements in Reverse Order
 3. Sum of Array Elements
 4. Average of Array Elements
-
+5. Find the Largest Element in an Array
+6. Find the Smallest Element in an Array
+7. Count Even and Odd Elements in an Array
+   
 More programs will be added as I continue practicing.
 
 ## Technologies Used
