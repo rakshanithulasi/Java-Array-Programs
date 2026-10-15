@@ -13,20 +13,21 @@ public class CountEvenAndOddElements
 		{
 			arr[i] = sc.nextInt();
 		}
-		int even_count = 0;
-		int odd_count = 0;
+		int evenCount = 0;
+		int oddCount = 0;
 		for(int i=0; i<arr.length; i++)
 		{
 			if(arr[i] % 2 == 0)
 			{
-				even_count++;
+				evenCount++;
 			}
 			else
 			{
-				odd_count++;
+				oddCount++;
 			}
 		}
-		System.out.println("Even Count : " + even_count);
-		System.out.println("Odd Count : " + odd_count);
+		System.out.println("Even Count : " + evenCount);
+		System.out.println("Odd Count : " + oddCount);
+		sc.close();
 	}
 }
