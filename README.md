@@ -29,6 +29,7 @@ This repository contains Java array programs that I practice to improve my codin
 22. Find Duplicate Elements in an Array
 23. Remove Duplicate Elements from an Array
 24. Left Rotate an Array by One Position
+25. Right Rotate an Array by One Position
     
 More programs will be added as I continue practicing.
 
