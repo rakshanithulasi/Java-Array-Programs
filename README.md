@@ -23,6 +23,7 @@ This repository contains Java array programs that I practice to improve my codin
 16. Check Whether an Array Is Sorted in Descending Order
 17. Reverse an Array Without Using Another Array
 18. Move All Zeros to the End of an Array
+19. Find the Second Largest Element in an Array
     
 More programs will be added as I continue practicing.
 
