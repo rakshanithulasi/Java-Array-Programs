@@ -27,6 +27,7 @@ This repository contains Java array programs that I practice to improve my codin
 20. Find the Second Smallest Element in an Array
 21. Merge Two Arrays Without Using Built-in Methods
 22. Find Duplicate Elements in an Array
+23. Remove Duplicate Elements from an Array
     
 More programs will be added as I continue practicing.
 
