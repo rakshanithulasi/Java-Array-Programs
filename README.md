@@ -31,6 +31,7 @@ This repository contains Java array programs that I practice to improve my codin
 24. Left Rotate an Array by One Position
 25. Right Rotate an Array by One Position
 26. Find the Frequency of Each Element in an Array
+27. Find All Duplicate Elements in an Array
     
 More programs will be added as I continue practicing.
 
