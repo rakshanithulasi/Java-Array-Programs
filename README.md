@@ -33,6 +33,7 @@ This repository contains Java array programs that I practice to improve my codin
 26. Find the Frequency of Each Element in an Array
 27. Find All Duplicate Elements in an Array
 28. Separate Even and Odd Elements in an Array
+29. Find the Third Largest Distinct Element in an Array
     
 More programs will be added as I continue practicing.
 
