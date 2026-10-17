@@ -36,6 +36,7 @@ This repository contains Java array programs that I practice to improve my codin
 29. Find the Third Largest Distinct Element in an Array
 30. Find the Missing Number in an Array
 31. Find All Missing Numbers in an Array
+32. Find the First Repeating Element in an Array
     
 More programs will be added as I continue practicing.
 
