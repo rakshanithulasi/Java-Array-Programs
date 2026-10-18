@@ -39,6 +39,7 @@ This repository contains Java array programs that I practice to improve my codin
 32. Find the First Repeating Element in an Array
 33. Find the First Non-Repeating Element in an Array
 34. Count Pairs with a Given Sum
+35. Find All Pairs with a Given Difference
     
 More programs will be added as I continue practicing.
 
