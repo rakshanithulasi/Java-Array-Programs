@@ -41,6 +41,7 @@ This repository contains Java array programs that I practice to improve my codin
 34. Count Pairs with a Given Sum
 35. Find All Pairs with a Given Difference
 36. Find the Maximum Difference Between Two Elements in an Array
+37. Find All Triplets with a Given Sum
     
 More programs will be added as I continue practicing.
 
