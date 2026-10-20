@@ -40,6 +40,7 @@ This repository contains Java array programs that I practice to improve my codin
 33. Find the First Non-Repeating Element in an Array
 34. Count Pairs with a Given Sum
 35. Find All Pairs with a Given Difference
+36. Find the Maximum Difference Between Two Elements in an Array
     
 More programs will be added as I continue practicing.
 
