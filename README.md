@@ -44,6 +44,7 @@ This repository contains Java array programs that I practice to improve my codin
 37. Find All Triplets with a Given Sum
 38. Find All Subarrays with a Given Sum
 39. Find the Longest Subarray with a Given Sum
+40. Find the Maximum Sum of a Subarray
     
 More programs will be added as I continue practicing.
 
